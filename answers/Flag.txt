@@ -1,1 +1,1 @@
-test
+FLAG{Y0u_F0und_My_S3cr3t_M3ss4g3_1234abcde89}
