@@ -10,7 +10,7 @@ You will need to use your cryptography and reverse engineering skills in order t
 The challenge folder holds the encryption algorithm used and the message that was sent. This is all you need in order to solve this challenge. Good Luck!
 
 ### If Stuck:
-If you get stuck the answers folder holders a Python decryption file that can be used to solve the problem. Along with the answers needed to complete the challenge. The flag is also in this folder to check when you are done under Flag.txt.
+If you get stuck the answers folder holds a Python decryption file that can be used to solve the problem. Along with the answers needed to complete the challenge. The flag is also in this folder to check when you are done under Flag.txt.
 
 ### Final Thoughts:
 I hope you enjoy and learn something!
